@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation for the project was to apply skills I learned to make a portfolio.
+My motivation for the project was to apply skills I learned to make a basic portfolio.
 This helped me learn the basics of css styling and to give me a baseline to work on a fancier portfolio later
 
 ## Installation
