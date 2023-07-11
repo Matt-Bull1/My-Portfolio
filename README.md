@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Module-2-Challenge
 
 ## Description
 
@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-![alt text](assets/images/screenshotPortfolio.png)
+![alt text](images/screenshotPortfolio.png)
 
 
 https://matt-bull1.github.io/My-Portfolio/
